@@ -1,0 +1,7 @@
+---
+- !ruby/object:Game
+  secret_word: timeline
+  guessed_letters: t**e***e
+  wrong_guesses: 1
+  wrong_letters:
+  - a
